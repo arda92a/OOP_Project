@@ -54,5 +54,5 @@ To run this project, you need to have Java Development Kit (JDK) installed. You 
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/yourusername/car-wash-reservation-system.git
-   cd car-wash-reservation-system
+   git clone https://github.com/arda92a/OOP_Project.git
+   
